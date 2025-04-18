@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/ml-api:latest
+          tags: priyamsaha/ml-api:latest
